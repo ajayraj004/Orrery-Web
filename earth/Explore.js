@@ -15,7 +15,6 @@ let saturn_orbit_radius = 120
 let uranus_orbit_radius = 140
 let neptune_orbit_radius = 160
 
-let mercury_revolution_speed = 2
 let venus_revolution_speed = 1.5
 let earth_revolution_speed = 1
 let mars_revolution_speed = 0.8
